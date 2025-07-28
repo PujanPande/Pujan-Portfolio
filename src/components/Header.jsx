@@ -9,7 +9,7 @@ const Header = () => {
         md:grid md:grid-cols-[1fr,3fr,1fr]">
           <h1>
             <a href="/" className="logo">
-            <img src="./images/log1.png" width={40} height={60} alt="Pujan Pandey" />
+            <img src="/Pujan-Portfolio/images/log1.png" width={40} height={60} alt="Pujan Pandey" />
             </a>
           </h1>
             <div className="relative md:justify-self-center">
