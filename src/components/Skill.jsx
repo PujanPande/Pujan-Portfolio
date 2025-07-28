@@ -4,7 +4,7 @@ import SkillCard from "./SkillCard";
 
 const skillItem =[
     {
-        imgSrc: "/images/figma.png",
+        imgSrc: "/Pujan-Portfolio/images/figma.png",
         label: "Figma",
         desc: "Design Tool"
     },
