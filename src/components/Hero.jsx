@@ -30,7 +30,7 @@ const Hero = () => {
                     <ButtonPrimary 
                         label="Download Resume"
                         icon="download"
-                        href="/images/proResume.pdf"
+                        href="/Pujan-Portfolio/images/proResume.pdf"
 
                     />
 
