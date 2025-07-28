@@ -9,7 +9,7 @@ const skillItem =[
         desc: "Design Tool"
     },
     {
-        imgSrc: "/images/css3.png",
+        imgSrc: "/Pujan-Portfolio/images/css3.png",
         label: "CSS3",
         desc: "User Interface"
     },
